@@ -1,6 +1,6 @@
 #include <iostream>
 #include <string>
-#include "Skat.hh"
+#include "Skat.h"
 using namespace std;
 
 Skat::Skat(std::string const &name, int stimpaks)
